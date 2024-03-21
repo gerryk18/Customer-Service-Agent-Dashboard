@@ -3,6 +3,8 @@ While working for PP I was tasked with creating an agent dashboard that would tr
 
 I build it using R and Shiny. The Shiny Dashboard referenced .rds files that queried API's from the call centre phone and messaging software. 
 
+![alt text](https://masterful-media.com/data_projects/wallboard.png)
+
 Each rds file grabbed a different KPI, for example:
 
 * Current Load
