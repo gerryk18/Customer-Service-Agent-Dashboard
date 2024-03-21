@@ -11,6 +11,4 @@ Each rds file grabbed a different KPI, for example:
 * SLA - Service Level Agreement
 * FTR - First Time Response
 
-![alt text](https://masterful-media.com/data_projects/wallboard.png)
-
 To see a live version of the website please visit the following link: https://masterful-media.com/data_projects/dash.html
